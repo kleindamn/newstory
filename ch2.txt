@@ -1,2 +1,2 @@
-This is main story in master branch
+ This is main story in master branch edited within the space branch
 
